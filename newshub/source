@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sir Anthony Hopkins: I can't take credit for my success",
+            "description": "Sir Anthony Hopkins, bullied and written off as a child, vowed to \"show\" his parents that he'd succeed.",
+            "url": "https://www.bbc.co.uk/news/articles/crmxv3m8mwzo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05b9/live/b48aa0c0-b2c9-11f0-a5c0-ef5cf5ad43f4.jpg",
+            "publishedAt": "2025-11-03T06:37:29.8891765Z",
+            "content": "Then one night in LA in December 1975, almost 50 years ago, he drove his car while in \"a complete alcoholic blackout\". When he came to, he realised that he was \"out of control\" and could have killed … [+1413 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China intimidated UK university to ditch human rights research, documents show",
+            "description": "Sheffield Hallam University apologises to Professor Laura Murphy for restricting her academic freedom.",
+            "url": "https://www.bbc.co.uk/news/articles/cq50j5vwny6o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b704/live/2b97e130-b678-11f0-8e54-b35e49a65740.jpg",
+            "publishedAt": "2025-11-03T06:22:22.2329823Z",
+            "content": "It all began so differently.\r\nWhen, in 2021, Prof Murphy published a major report into Uhygur forced labour in the solar panel industry, external, the director of the Helena Kennedy Centre (HKC), the… [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Air India plane crash survivor: 'I'm luckiest man alive'",
+            "description": "Viswashkumar Ramesh describes the pain and anguish he is enduring despite surviving the disaster.",
+            "url": "https://www.bbc.co.uk/news/articles/cp85zvne1m3o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7083/live/d449ceb0-b66e-11f0-b2a1-6f537f66f9aa.jpg",
+            "publishedAt": "2025-11-03T06:22:19.514908Z",
+            "content": "Air India has offered an interim compensation payment to Mr Ramesh of £21,500, which has been accepted, but his advisers say this is not enough to meet his immediate needs.\r\nThe family fishing busine… [+1179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Why brushing teeth twice a day is not always best and other myths busted",
+            "description": "According to dental experts, even the most diligent brushers might be making a few mistakes.",
+            "url": "https://www.bbc.co.uk/news/articles/c803gk1vpzko",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df1f/live/330fc5d0-b59d-11f0-99a1-9f4dd3d6a1a3.jpg",
+            "publishedAt": "2025-11-03T01:37:31.1155813Z",
+            "content": "It's one of the great dental commandments - brushing twice a day - and that's what the NHS recommends, external.\r\nBut Dr Sharma says the real key is quality, not quantity.\r\n\"If you can find time, the… [+840 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Newspaper headlines: 'Train stab horror' and 'Devil not going to win'",
+            "description": "Most of Monday's papers lead on the aftermath of the Saturday night stabbing attack on a train travelling from Doncaster to London.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy7pwlpnkgo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcd7/live/33dec1e0-b84b-11f0-ba75-093eca1ac29b.jpg",
+            "publishedAt": "2025-11-03T01:37:25.5232255Z",
+            "content": "Image caption, \"Risky High St baby scans\" is the lead for the Metro, which reports on \"unsafe\" private ultrasound clinics that have sprung up in shopping centres, town centre shops and industrial est… [+179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Warning over dangerous high street baby scans",
+            "description": "Some high-street clinics are risking lives by letting untrained staff do baby scans, warn experts.",
+            "url": "https://www.bbc.co.uk/news/articles/cx27pm8d0p3o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ccd/live/d219c360-b62e-11f0-8c22-1dd3bd1762ee.jpg",
+            "publishedAt": "2025-11-03T01:37:24.3649379Z",
+            "content": "The SoR is now calling for sonographer to become a protected job title in the UK in the same way as dietician, podiatrist, art therapist or radiographer.\r\nThat would mean only those who are properly … [+1443 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Firms ordered to reduce forever chemicals in drinking water for 6m people",
+            "description": "The persistent pollutants which build up in the environment have been linked to serious illnesses.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q1nzyzyjeo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d4a/live/a59b8a20-b648-11f0-b537-0b1fa31d0c29.jpg",
+            "publishedAt": "2025-11-03T01:37:22.6622366Z",
+            "content": "The Drinking Water Inspectorate has said that water quality remains safe because, once a sanction is issued, water companies are required to increase testing, change or strengthen treatment for PFAS,… [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Man, 32, only suspect after Huntingdon train stabbings",
+            "description": "British Transport Police said the \"heroic\" LNER staff member had tried to stop the attacker.",
+            "url": "https://www.bbc.co.uk/news/articles/c797x8v0nvno",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b5c/live/8c5f1c00-b816-11f0-8801-8b419f17177b.jpg",
+            "publishedAt": "2025-11-02T23:07:18.1949056Z",
+            "content": "The driver of the train has been named as Andrew Johnson. \r\nWhen the alarm was raised, Mr Johnson was said to have contacted the control room to get the train diverted from the fast track to the slow… [+744 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rogiet: Nine-month-old baby killed in dog attack",
+            "description": "A nine-month-old baby has been killed in a dog attack, Gwent Police has said.",
+            "url": "https://www.bbc.co.uk/news/articles/c0exdqpv3vvo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d99/live/30c28960-b82d-11f0-adc1-c570fdbf27cd.jpg",
+            "publishedAt": "2025-11-02T21:52:23.9123141Z",
+            "content": "A nine-month-old baby has been killed in a dog attack in south-east Wales, according to Gwent Police.\r\nOfficers and paramedics went to a property on Crossway in Rogiet, Monmouthshire, at about 18:00 … [+201 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What we know about Huntingdon train stabbings",
+            "description": "Nine people have life-threatening injuries, police say, with counter-terror police joining the investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/c8r007d4kk2o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1517/live/53923850-b7c4-11f0-b2a1-6f537f66f9aa.jpg",
+            "publishedAt": "2025-11-02T08:52:28.8508119Z",
+            "content": "LNER, which operates East Coast Mainline services, urged passengers to avoid travelling on Sunday 2 November, external.\r\nTicketholders who are no longer planning to travel will be eligible for a full… [+1192 chars]"
+        }
+    ]
+}
