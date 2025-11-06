@@ -25,20 +25,20 @@ export default function BackToTop() {
       onClick={scrollToTop}
       title="Back to top"
       className="
-        btn btn-primary rounded-circle shadow
+        btn btn-dark rounded shadow
         position-fixed
         end-0 bottom-0
         m-4
         d-flex align-items-center justify-content-center
       "
-      style={{ width: 48, height: 48, zIndex: 1050 }}
+      style={{ width: 55, height: 55, zIndex: 1050 }}
     >
       {/* choose ONE of these icon options */}
       {/* Bootstrap Icons: */}
       {/* Or Unicode: */}
       {/* <span aria-hidden="true">↑</span> */}
       {/* Or inline SVG: */}
-      { <svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor"><path d="M8 3l5 5-.7.7L8.5 5.6V13h-1V5.6L3.7 8.7 3 8z"/></svg> }
+      {<svg width="38" height="38" viewBox="0 0 16 16" fill="currentColor"><path d="M8 3l5 5-.7.7L8.5 5.6V13h-1V5.6L3.7 8.7 3 8z"/></svg>}
     </button>
   );
 }
