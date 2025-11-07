@@ -56,7 +56,7 @@ The app will start on:
 
 ## 🌐 Live Demo
 
-🔗 **[View the Live Website](https://saisaketh0819.github.io/newshub/)**
+🔗 **[View the Live Website](https://saisaketh0819.github.io/News-Hub/)**
 
 ---
 
@@ -71,8 +71,8 @@ The app will start on:
 ## 👨‍💻 Author
 
 **CH Sai Saketh**
-📧 https://www.linkedin.com/in/saisaketh0819/
-💻 https://github.com/saisaketh0819
+📧 **[LinkedIn](https://www.linkedin.com/in/saisaketh0819/)**
+💻 **[Github](https://github.com/saisaketh0819)**
 
 ---
 This project is open-source.
