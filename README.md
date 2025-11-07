@@ -52,19 +52,6 @@ npm start
 
 The app will start on:
 👉 `http://localhost:3000`
-
-### 4️⃣ Build for production
-
-```bash
-npm run build
-```
-
-### 5️⃣ Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
-
 ---
 
 ## 🌐 Live Demo
