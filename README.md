@@ -71,7 +71,7 @@ The app will start on:
 ## 👨‍💻 Author
 
 **CH Sai Saketh**
-📧 **[LinkedIn](https://www.linkedin.com/in/saisaketh0819/)**
+📧 **[LinkedIn](https://www.linkedin.com/in/saisaketh27/)**
 💻 **[Github](https://github.com/saisaketh0819)**
 
 ---
